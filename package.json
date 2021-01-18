@@ -9,7 +9,7 @@
     "gatsby-plugin-react-helmet": "3.8.0",
     "gatsby-plugin-sharp": "2.2.12",
     "gatsby-source-filesystem": "2.9.0",
-    "gatsby-transformer-sharp": "2.10.0",
+    "gatsby-transformer-sharp": "2.10.1",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-helmet": "5.2.1"
